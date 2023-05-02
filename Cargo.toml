@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 
 hound = "3.5.0"
-plugin_util = { git = "https://github.com/AquaEBM/plugin_util.git"}
+realfft = "3.2.0"
